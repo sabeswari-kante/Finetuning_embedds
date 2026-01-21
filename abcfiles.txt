@@ -1,0 +1,16 @@
+Load and preprocess documents in PDF and DOCX formats
+Tokenize and prepare datasets for model input
+Fine-tune pre-trained Hugging Face language models
+Use PyTorch backend for training
+
+
+# PDF and DOCX processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Machine Learning and Transformers
+torch>=2.0.0
+transformers>=4.30.0
+
+# Logging and utilities
+pathlib>=1.0.1 
